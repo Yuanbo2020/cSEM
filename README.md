@@ -138,7 +138,7 @@ The results in Table 8 show that for cross-stitch-PANN, focusing more attention 
 <h4 align="center">Table 9: The difference between RGASC and cSEM.</h4>
 <h3 align="center"> <p></p></h3>
 <div align="center">
-<img src="Table/Table9.png" width=100%/> 
+<img src="Table/Table9.PNG" width=100%/> 
 </div> 
 
 RGASC transforms the final output of ASC and AEC branches through the priori fixed matrix. Hence, the essence of RGASC is to transform the ASC and AEC predictions about scenes and events through a fixed matrix, which is similar to the idea of querying based on an existing table. The cornerstone of RGASC lies in the ASC and AEC predictions, whereas cSEM is dedicated to aligning the core knowledge of scenes and events in the latent space in ASC and AEC. The cornerstone of cSEM is to learn the core knowledge W_s learned by the ASC branch and the core knowledge W_e learned by the event branch. Based on the coupling matrix W_se, cSEM transforms the representations of scenes and events into each other’s semantic space.
