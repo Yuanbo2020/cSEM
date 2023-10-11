@@ -1,6 +1,19 @@
 # Supplementary material for Cooperative Scene-Event Modelling for Acoustic Scene Classification
 
-The cSEM is uploading....
+# Citation
+Please consider citing our paper as
+```bibtex
+@ARTICLE{10274856,
+  author={Hou, Yuanbo and Kang, Bo and Mitchell, Andrew and Wang, Wenwu and Kang, Jian and Botteldooren, Dick},
+  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing}, 
+  title={Cooperative Scene-Event Modelling for Acoustic Scene Classification}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-13},
+  doi={10.1109/TASLP.2023.3323135}}
+```
+  
 
 ## 1. The much simpler baseline
 
